@@ -1,4 +1,4 @@
-# Imperial_Presenation
+# Imperial_Presentation
 Presentation made to interview panel at Imperial describing a problem and how it was resolved.
 ---
 title: "Covid-19 Case Fatality Rate (CFR) in Belize:"
